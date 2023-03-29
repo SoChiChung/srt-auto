@@ -9,3 +9,9 @@ After installing the package ,something was wrong:
 With the guide of **chatgpt** ,I finally deal it by using `subprocess.run()`
 
 [Click here](auto-subtitle\test.py)
+
+## subtitle translate
+
+I find this tool in weibo :[Subtitle Translator](https://github.com/gnehs/subtitle-translator-electron)
+
+But I think it is not perfect cuz it generated sentences repeatly.But it is the best tool for translate srt freely.
